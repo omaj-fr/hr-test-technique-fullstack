@@ -1,6 +1,6 @@
 
 # Test technique @ OMAJ
-Ce test technique servira de base à l'entretien technique pour le poste de développeur·se full-stack dont voici [la fiche de poste](https://www.notion.so/omaj/D-veloppeur-se-Full-Stack-Paris-Remote-938dbe498a55474b9fb4da4fbe4dbae9). L'exercice est composé : 
+Ce test technique servira de base à l'entretien technique pour le poste de développeur·se full-stack dont voici [la fiche de poste](https://www.welcometothejungle.com/fr/companies/omaj/jobs/developpeur-se-full-stack_saint-ouen). L'exercice est composé : 
 * D'une partie back-end de mise en place d'une API.
 * D'une partie front-end de consommation de cette API. 
 
